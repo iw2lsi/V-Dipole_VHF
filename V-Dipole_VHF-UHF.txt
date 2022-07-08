@@ -1,0 +1,7 @@
+printer      : Ender 3...
+material     : PETG, ABS...
+connector    : SMA female (https://en.wikipedia.org/wiki/SMA_connector)
+rods diameter: 4mm 
+pole diameter: 25mm
+impedence    : 50Ohm
+dipole length: http://www.csgnetwork.com/antennaedcalc.html
